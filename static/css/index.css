@@ -1,0 +1,14 @@
+iframe {
+    border: 5px solid #79747E;
+    border-radius: 8px;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.link {
+    font-size: 16px;
+    text-decoration: none;
+}
